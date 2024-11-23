@@ -10,3 +10,4 @@
 
 ### Programming Languages:
 1. Python
+2. JavaScript / TypeScript (Only for React)
